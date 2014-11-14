@@ -18,6 +18,8 @@ Ao programar código ActionScript no ambiente de autoria, você usa o painel Aç
 
 Durante esta unidade de formação modular realizámos diversos exercicios no software da Adobe Flash, vimos também que era possivel compartilhar bibliotecas com códigos já gerados para diversos comandos.
 Aprendemos a animar elementos atráves do seu codigo html e estilo e em seguida usámos o Flash para fins semelhantes.
-Foi uma matéria que nunca tinha visto e que foi muito difícil eu entender mas graças ao formador Francisco ultrapassei estes objetivos…
-Antonio Lourenço 
-Nº4
+Foi uma matéria que nunca tinha visto e que foi muito difícil eu entender mas graças ao formador Francisco ultrapassei estes objetivos
+
+
+##Antonio Lourenço 
+##Nº4
